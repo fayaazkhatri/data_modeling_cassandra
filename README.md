@@ -1,0 +1,3 @@
+This repository contains a Jupyter Notebook that walks through data modeling using an Apache Cassandra database. With a NoSQL database, the tables must be designed mindful of queries that will be run against it.
+
+The notebook iterates through a directory of data files and consolidates them into one csv file. Then tables are created and data is inserted accordingly. Queries are run against the table to verify the desired results.
